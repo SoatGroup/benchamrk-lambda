@@ -1,0 +1,10 @@
+Benchmark;(nbPersons);Mode;Cnt;Score;Error;Units
+AnonymousBaselineBenchmark.anonymous_class;10;avgt;100;0,376;±;0,008;us/op
+AnonymousBaselineBenchmark.anonymous_class;100;avgt;100;8,728;±;0,199;us/op
+AnonymousBaselineBenchmark.anonymous_class;500;avgt;100;122,603;±;2,374;us/op
+AnonymousBaselineBenchmark.anonymous_class;1000;avgt;100;348,551;±;3,578;us/op
+AnonymousBaselineBenchmark.anonymous_class;5000;avgt;100;2507,452;±;38,686;us/op
+AnonymousBaselineBenchmark.anonymous_class;10000;avgt;100;5565,801;±;105,856;us/op
+AnonymousBaselineBenchmark.anonymous_class;50000;avgt;100;36034,474;±;449,837;us/op
+AnonymousBaselineBenchmark.anonymous_class;100000;avgt;100;77900,912;±;1168,046;us/op
+AnonymousBaselineBenchmark.anonymous_class;500000;avgt;100;436714,557;±;2260,036;us/op
